@@ -2,6 +2,12 @@
 
 Templates for `pangu init`
 
+npm 安装
+
+```bash
+npm install pangujs-nextjs-template
+```
+
 创建项目
 
 ```bash
