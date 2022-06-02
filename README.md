@@ -1,4 +1,6 @@
-## Getting Started
+# pangujs-nextjs-template
+
+Templates for `pangu init`
 
 创建项目
 
