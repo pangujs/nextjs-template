@@ -7,7 +7,7 @@ const Layout = ({ children }: { children: ReactNode }) => {
     <>
       {/* head */}
       <Head>
-        <title>深圳市数帝网络科技有限公司</title>
+        <title>Create Next App</title>
         <meta
           name="viewport"
           content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, width=device-width"

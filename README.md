@@ -14,7 +14,7 @@ npm run dev
 yarn dev
 ```
 
-使用的主要技术
+包含:
 
 - <a href="https://swr.vercel.app/zh-CN">swr</a>
 - <a href="https://tailwindcss.com/">tailwindcss</a>
